@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tony-Henson
+- 👀 I’m interested in Security Management and Penetration Testing or "Ethical Hacking"
+- 🌱 I’m currently learning Information Security and Python.
+- 💞️ I’m looking to collaborate on Python projects that will help develop my basic understanding of coding.
+- 📫 How to reach me, email: tony_henson4@yahoo.com
